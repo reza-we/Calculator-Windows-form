@@ -1,0 +1,20 @@
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Release\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Release\mashin hesab.exe
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Release\mashin hesab.pdb
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin_hesab.Mains.resources
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin hesab.exe
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Release\mashin hesab.pdb
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Release\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Release\mashin hesab.exe
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Release\mashin hesab.pdb
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin_hesab.Mains.resources
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin hesab.exe
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Release\mashin hesab.pdb

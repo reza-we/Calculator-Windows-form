@@ -1,0 +1,50 @@
+C:\Users\ApStore\Desktop\mashin hesab\bin\Debug\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\mashin hesab\bin\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\mashin hesab\bin\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\11\mashin hesab\bin\Debug\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\11\mashin hesab\bin\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\11\mashin hesab\bin\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin_hesab.calculator.resources
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\11\mashin hesab\obj\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\bin\Debug\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\bin\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\bin\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin_hesab.calculator.resources
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\11 - Copy\mashin hesab\obj\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\mashin hesab\obj\Debug\mashin_hesab.Mains.resources
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Debug\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\test\mashin hesab\bin\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin_hesab.Mains.resources
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\test\mashin hesab\obj\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Debug\mashin hesab.exe.config
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\final\mashin hesab\bin\Debug\mashin hesab.pdb
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin hesab.csproj.AssemblyReference.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin_hesab.Mains.resources
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin_hesab.Properties.Resources.resources
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin hesab.csproj.GenerateResource.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin hesab.csproj.CoreCompileInputs.cache
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin hesab.exe
+C:\Users\ApStore\Desktop\final\mashin hesab\obj\Debug\mashin hesab.pdb
